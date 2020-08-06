@@ -4,14 +4,32 @@
     <line>
       <![CDATA[i am run method]]>
     </line>
+    <line>
+      <![CDATA[i am run method]]>
+    </line>
+    <line>
+      <![CDATA[i am run method]]>
+    </line>
+    <line>
+      <![CDATA[i am run method]]>
+    </line>
   </reporter-output>
-  <suite started-at="2020-08-06T15:30:44 IST" name="Default suite" finished-at="2020-08-06T15:30:44 IST" duration-ms="53">
+  <suite started-at="2020-08-06T16:49:53 IST" name="Default suite" finished-at="2020-08-06T16:49:53 IST" duration-ms="102">
     <groups>
     </groups>
-    <test started-at="2020-08-06T15:30:44 IST" name="Default test" finished-at="2020-08-06T15:30:44 IST" duration-ms="53">
+    <test started-at="2020-08-06T16:49:53 IST" name="Default test" finished-at="2020-08-06T16:49:53 IST" duration-ms="102">
       <class name="com.actitime.timetrack.MavenTesting">
-        <test-method signature="run()[pri:0, instance:com.actitime.timetrack.MavenTesting@3901d134]" started-at="2020-08-06T15:30:44 IST" name="run" finished-at="2020-08-06T15:30:44 IST" duration-ms="9" status="PASS">
+        <test-method signature="run()[pri:0, instance:com.actitime.timetrack.MavenTesting@3901d134]" started-at="2020-08-06T16:49:53 IST" name="run" finished-at="2020-08-06T16:49:53 IST" duration-ms="14" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[i am run method]]>
+            </line>
+            <line>
+              <![CDATA[i am run method]]>
+            </line>
+            <line>
+              <![CDATA[i am run method]]>
+            </line>
             <line>
               <![CDATA[i am run method]]>
             </line>
