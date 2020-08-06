@@ -8,6 +8,10 @@ public class MavenTesting {
 	
 	@Test
 	public void run() {
+		
+		Reporter.log("i am run method", true);
+		Reporter.log("i am run method", true);
+		Reporter.log("i am run method", true);
 		Reporter.log("i am run method", true);
 		
 		}
